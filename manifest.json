@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Günlüğüm",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Günlüğüm",
+  "start_url": "/",
+  "theme_color": "#faf8ef",
+  "id": "gunlugum",
+  "description": "Kişisel günlük, oyunlar ve sohbet"
+}
